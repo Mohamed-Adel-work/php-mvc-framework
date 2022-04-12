@@ -1,0 +1,22 @@
+{
+  "name": "emarketingo/project-mvc-framework",
+  "autoload": {
+    "psr-4": {
+      "Emarketingo\\NewProjectMvc\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Mohamed-Adel-work",
+      "email": "mohamed.wemail@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "."
+    }
+  },
+  "require": {
+    "vlucas/phpdotenv": "^5.4"
+  }
+}
